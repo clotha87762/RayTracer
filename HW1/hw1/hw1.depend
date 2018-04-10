@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1521627712 source:c:\users\clotha87762\desktop\106\acg\hw1\hw1\algebra3.cpp
+	<math.h>
+	"algebra3.h"
+	<ctype.h>
+
+1521627303 c:\users\clotha87762\desktop\106\acg\hw1\hw1\algebra3.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1521833118 source:c:\users\clotha87762\desktop\106\acg\hw1\hw1\hw1.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<fstream>
+	<cstring>
+	<vector>
+	<string>
+	<sstream>
+	<cmath>
+	"imageIO.h"
+	"algebra3.h"
+	"hw1.h"
+
+1521546933 c:\users\clotha87762\desktop\106\acg\hw1\hw1\imageio.h
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1521546438 source:c:\users\clotha87762\desktop\106\acg\hw1\hw1\imageio.cpp
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"imageIO.h"
+
+1521633032 c:\users\clotha87762\desktop\106\acg\hw1\hw1\hw1.h
+	"algebra3.h"
+
