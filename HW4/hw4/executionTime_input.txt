@@ -1,0 +1,6 @@
+resolution:512X512
+SSAA ratio:1
+elapse time:28.035 seconds
+total kd-tree node count:18094
+max depth of kd-tree subdivision:17
+average ray-mesh Intersection check count:128.655
