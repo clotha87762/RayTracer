@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1521627712 source:c:\users\clotha87762\desktop\106\acg\final\photon\algebra3.cpp
+	<math.h>
+	"algebra3.h"
+	<ctype.h>
+
+1521627303 c:\users\clotha87762\desktop\106\acg\final\photon\algebra3.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1530135802 source:c:\users\clotha87762\desktop\106\acg\final\photon\final.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<fstream>
+	<cstring>
+	<vector>
+	<string>
+	<sstream>
+	<cmath>
+	<ctime>
+	<stack>
+	<algorithm>
+	"imageIO.h"
+	"algebra3.h"
+	"photon.h"
+	"parameter.h"
+	"final.h"
+
+1521546933 c:\users\clotha87762\desktop\106\acg\final\photon\imageio.h
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1530096741 c:\users\clotha87762\desktop\106\acg\final\photon\photon.h
+	<random>
+	<ctime>
+	<functional>
+	"algebra3.h"
+	"parameter.h"
+	"Mesh.h"
+	"Camera.h"
+
+1530138809 c:\users\clotha87762\desktop\106\acg\final\photon\parameter.h
+
+1530125276 c:\users\clotha87762\desktop\106\acg\final\photon\final.h
+	<vector>
+	"algebra3.h"
+	"photon.h"
+	"Mesh.h"
+	"Camera.h"
+
+1523285283 source:c:\users\clotha87762\desktop\106\acg\final\photon\imageio.cpp
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"imageIO.h"
+
+1530135334 source:c:\users\clotha87762\desktop\106\acg\final\photon\photon.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<fstream>
+	<cstring>
+	<vector>
+	<string>
+	<sstream>
+	<cmath>
+	<ctime>
+	<stack>
+	<algorithm>
+	"imageIO.h"
+	"algebra3.h"
+	"photon.h"
+	"parameter.h"
+
+1530009785 c:\users\clotha87762\desktop\106\acg\final\photon\mesh.h
+	<vector>
+	"algebra3.h"
+
+1530009812 c:\users\clotha87762\desktop\106\acg\final\photon\camera.h
+	"algebra3.h"
+

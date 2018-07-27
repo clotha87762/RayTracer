@@ -1,0 +1,3 @@
+resolution:512X512
+SSAA ratio:1
+elapse time:83.435 seconds
